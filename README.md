@@ -32,7 +32,7 @@ O objetivo deste projeto foi criar um clone estático da página inicial do YouT
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/seu-usuario/Youtube-Homepage.git
    ```
 2. Abra o arquivo `index.html` em seu navegador para visualizar o clone da página inicial do YouTube.
 
@@ -77,7 +77,7 @@ The goal of this project was to create a static clone of the YouTube homepage us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/Youtube-Homepage.git
    ```
 2. Open `index.html` in your web browser to view the YouTube homepage clone.
 
