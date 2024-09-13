@@ -11,7 +11,6 @@ Este repositório contém um projeto que replica o layout da página inicial do 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Usar](#como-usar)
 - [Créditos](#créditos)
-- [Licença](#licença)
 
 ## Visão Geral do Projeto
 
@@ -40,10 +39,6 @@ O objetivo deste projeto foi criar um clone estático da página inicial do YouT
 
 - Este projeto foi desenvolvido com base em um [tutorial de HTML/CSS no YouTube](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=2s).
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
-
 ---
 
 # YouTube Homepage Clone
@@ -56,7 +51,6 @@ This repository contains a project that replicates the YouTube homepage layout u
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Credits](#credits)
-- [License](#license)
 
 ## Project Overview
 
@@ -84,11 +78,3 @@ The goal of this project was to create a static clone of the YouTube homepage us
 ## Credits
 
 - This project was developed based on a [YouTube HTML/CSS tutorial](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=2s).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-This format keeps the two languages separate and fully translates the entire README into both Portuguese and English. Let me know if it's good to go!
