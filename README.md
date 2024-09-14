@@ -1,6 +1,3 @@
-# Youtube-Homepage
- Clone estático da página inicial do YouTube / Static clone of the YouTube homepage
-
 # Clone da Página Inicial do YouTube
 
 Este repositório contém um projeto que replica o layout da página inicial do YouTube usando apenas **HTML** e **CSS**. Ele foi desenvolvido como parte de um projeto prático baseado em um curso de HTML/CSS no YouTube.
